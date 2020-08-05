@@ -13,4 +13,4 @@ Region of Interest Selection
 
 Hough Transform Line Detection
 
-Finally, I applied all the techniques to process video clips to find lane lines in them.
+Finally, I applied all the techniques to process video clips to find lane lines in them
